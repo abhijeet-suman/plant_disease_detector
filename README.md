@@ -7,7 +7,7 @@ An interactive deep learning web application powered by **PyTorch** and **Gradio
 ## 🚀 Features
 
 * **Multi-Image Upload**: Process multiple leaf images simultaneously.
-* **Deep Learning Inference**: Uses a pre-trained TorchScript DenseNet model.
+* **Deep Learning Inference**: Uses a pre-trained TorchScript model similar to DenseNet architecture.
 * **Interactive UI**: Clean, side-by-side view with thumbnail gallery and confidence predictions.
 * **GPU Accelerated**: Optimized for ZeroGPU via Hugging Face.
 
