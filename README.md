@@ -1,4 +1,5 @@
-# Plant Disease Classification System
+# Plant Disease Classification System 
+## Accuracy - 98.96% | Parameters - 266,214
 
 An interactive deep learning web application powered by **PyTorch** and **Gradio** to detect and classify plant leaf diseases from uploaded images.
 
